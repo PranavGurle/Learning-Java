@@ -175,3 +175,24 @@ public class Lecture3 {
 
 }
 }
+
+
+
+
+
+
+
+
+    switch (button) {
+        case 1: System.out.println("hello");
+        break;
+        case 2: System.out.println("Namaste");
+        break;
+        case 3 : System.out.println("Bonjour");
+        break;
+
+        default : System.out.println("Invalid button");
+    }
+    
+    
+    
