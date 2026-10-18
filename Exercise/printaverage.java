@@ -4,7 +4,7 @@ public class printaverage {
 
 
     public static int Average(int a, int b, int c){
-        return a+b+c/2;
+        return a+b+c/3;
     }
 
 
