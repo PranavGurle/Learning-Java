@@ -5,7 +5,7 @@ import java.util.*;
 public class circlecurrcemference {
 
 
-    public static double Currecum(int r){
+    public static double Currecum(double r){
 
         double C =  2 * 3.14 * r; 
 
